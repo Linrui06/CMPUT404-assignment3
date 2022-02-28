@@ -1,0 +1,106 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color:rgb(240, 214, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-top: 50pt;
+    margin-bottom: 50pt;
+    margin-left: 50pt;
+    margin-right: 50pt;
+    font-style: normal;
+}
+
+h1 {
+    color: rgb(14, 2, 2);
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 220%;
+    font-style:normal;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+h2 {
+    color: rgb(15, 11, 11);
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-style: italic;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    border-style: double;
+    border-radius: .2em;
+    border-color: rgb(229, 138, 188);
+}
+
+h3 {
+    color: rgb(15, 11, 11);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-style: italic;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    border-style: double;
+    border-radius: .2em;
+    border-color: rgb(229, 138, 188);
+}
+
+h4 {
+    color: rgb(15, 11, 11);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-style: italic;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    border-style: double;
+    border-radius: .2em;
+    border-color: rgb(229, 138, 188);
+}
+
+h5 {
+    color: rgb(15, 11, 11);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-style: italic;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    border-style: double;
+    border-radius: .2em;
+    border-color: rgb(229, 138, 188);
+}
+
+.sidebar {
+    margin-left: 28%;
+    width: 20em;
+    text-align: justify;
+    background-color: rgb(245, 203, 203);
+}
+
+img{
+    display: block;
+    border-style: solid;
+    border-radius: 3pt;
+    border-color: rgb(200, 223, 98);
+    float: right;
+}
+
+nav ul {
+    display: inline-block;
+    margin-left: 38%;
+    text-align: justify;
+    background-color: rgb(224, 161, 161);
+}
+
+p {
+    font-size: small;
+    text-align: justify
+    font-style: normal;
+    color: #0c0b00;
+}
+
